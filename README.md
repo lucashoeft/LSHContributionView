@@ -1,5 +1,7 @@
 # LSHContributionView
 
+[![Language](http://img.shields.io/badge/language-swift-brightgreen.svg?style=flat)](https://developer.apple.com/swift) [![Platform](https://img.shields.io/cocoapods/p/LSHContributionView.svg?style=flat)](http://cocoapods.org/pods/LSHContributionView) [![License](https://img.shields.io/cocoapods/l/LSHContributionView.svg?style=flat)](http://cocoapods.org/pods/LSHContributionView) [![Version](https://img.shields.io/cocoapods/v/LSHContributionView.svg?style=flat)](http://cocoapods.org/pods/LSHContributionView)
+
 Contribution view similar to Contribution Graph on GitHub
 
 <img src="LSHContributionView.png" alt="ContributionView" width=375>
@@ -11,7 +13,17 @@ Contribution view similar to Contribution Graph on GitHub
 
 ## Installation
 
-Soon via CocoaPods and Carthage
+### CocoaPods
+
+To install `LSHContributionView` via [CocoaPods](http://cocoapods.org), add the following line to your Podfile:
+
+```
+pod 'LSHContributionView'
+```
+
+### Carthage
+
+Soon
 
 ## Usage
 
